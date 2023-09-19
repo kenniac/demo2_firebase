@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152913219685",
+    "project_id": "crud-firebase-edda1",
+    "storage_bucket": "crud-firebase-edda1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152913219685:android:604a4be6301ff7ac42768c",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzU1mOzug-aSmOQnfgaPZw2yWViD2PTNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152913219685:android:52548bf529f3169b42768c",
+        "android_client_info": {
+          "package_name": "com.krcs.demo2_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzU1mOzug-aSmOQnfgaPZw2yWViD2PTNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
